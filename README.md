@@ -24,5 +24,5 @@
 
 1. **저장소 클론하기**:
    ```bash
-   git clone https://github.com/KiwonTech/KiwonTech.git
-   cd KiwonTech
+   git clone https://github.com/KiwonTech/KWD24_GB2.git
+   cd KWD24_GB2
