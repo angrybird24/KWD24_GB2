@@ -24,7 +24,7 @@
     - 수신자는 이메일의 진위 여부 파악 불가
     - 회계 부서는 이메일을 신뢰하고 송금 요청을 승인하여, 거액의 자금이 공격자 계좌로 유출
   
-[Google Facebook $100 million phishing scam](https://www.notion.so/Google-Facebook-100-million-phishing-scam-9b3ce00e34e54d72a622751c2f9d2e95?pvs=21)  
+[Google Facebook $100 million phishing scam](https://github.com/angrybird24/KWD24_GB2/blob/main/%EC%A7%81%EB%AC%B4%EC%8B%AC%ED%99%94%EA%B5%90%EC%9C%A1/%EC%9D%B4%EB%A9%94%EC%9D%BC%EB%B3%B4%EC%95%88_0903/%EC%A1%B0%EC%82%AC1_Google%20Facebook%20%24100%20million%20phishing%20scam.md)  
 
 ### **사례 2 : 북한 라자루스 해킹 조직의 방산업체 대상 해킹(2014~2016)** 
 
