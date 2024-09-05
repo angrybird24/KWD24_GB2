@@ -6,7 +6,6 @@
 [지란지교시큐리티 - 바로가기](https://www.jiransecurity.com/products/spamsniper)
 
 ## 3.1 비즈니스 최적화 조직 형태 구성
-![Image Description](https://github.com/angrybird24/KiwonTech_Team/blob/main/%EC%A7%81%EB%AC%B4%EC%8B%AC%ED%99%94%EA%B5%90%EC%9C%A1/%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EC%8B%A4%EC%8A%B5/images/%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8C%E1%85%A9%E1%84%8C%E1%85%B5%E1%86%A8.png?raw=true)
   
 ### 1. 빠른 양적 성장(규모 확대)
 * __조직 구성: 일방향 계층적 조직__
