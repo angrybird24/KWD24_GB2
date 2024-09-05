@@ -76,3 +76,5 @@ _**추가사항:(아래에 참고 기사/논문/블로그 주소 등 인용자�
 [3] https://www.cpomagazine.com/cyber-security/the-phishing-scam-that-took-google-and-facebook-for-100-million/  
 [4] https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/google-and-facebook-fraudster-pleads-guilty-to-100-million-scam  
 [5] https://www.bitdefender.com/blog/hotforsecurity/the-phishing-swindle-that-conned-100-million-out-of-google-and-facebook/?srsltid=AfmBOoqMIzKl8LKXw2782QcBdaIKzqMT-cFf9tr4379DfRl7dw1iy9yt%2F%2F  
+[6] https://www.ncsc.go.kr:4018/main/cop/bbs/selectBoardArticle.do?bbsId=SecurityAdvice_main&nttId=118726&pageIndex=1&searchCnd2= 
+
