@@ -1,4 +1,4 @@
-# KiwonTech - 경상팀 2조 🚀
+![화면 캡처 2024-09-30 155020](https://github.com/user-attachments/assets/6d3eebac-6eaa-4af8-9f81-048a49af1596)# KiwonTech - 경상팀 2조 🚀
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Comento-logo-Type-Blue.png" alt="Commento Logo" width="200">
@@ -26,4 +26,7 @@
    ```bash
    git clone https://github.com/KiwonTech/KWD24_GB2.git
    cd KWD24_GB2
-![Uploading image.png…]()
+
+ 
+
+
