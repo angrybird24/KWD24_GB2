@@ -29,13 +29,13 @@
   
   
   
-  
+  <br><br><br><br><br><br>
   
   
 ## 회의록작성 - 주차별 회의록 작성 , 업무요청분석을 학습
 ![화면 캡처 2024-09-30 155020](https://github.com/user-attachments/assets/6d3eebac-6eaa-4af8-9f81-048a49af1596)
   
-  
+  <br><br><br><br><br><br>
   
   
   
@@ -47,7 +47,7 @@
   
   
   
-  
+  <br><br><br><br><br><br>
   
   
 
@@ -57,7 +57,7 @@
   
   
   
-  
+  <br><br><br><br><br><br>
   
   
   
