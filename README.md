@@ -29,8 +29,16 @@
 
 
 
+
+
+
 ## 회의록작성 - 주차별 회의록 작성 , 업무요청분석을 학습
 ![화면 캡처 2024-09-30 155020](https://github.com/user-attachments/assets/6d3eebac-6eaa-4af8-9f81-048a49af1596)
+
+
+
+
+
 
 
 
@@ -39,8 +47,18 @@
 
 
 
+
+
+
+
+
 ## 개인 조사
 ![image](https://github.com/user-attachments/assets/d6d86303-ae5d-404c-bbf6-a57986195520)
+
+
+
+
+
 
 
 
