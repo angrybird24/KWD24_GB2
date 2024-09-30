@@ -1,4 +1,4 @@
-![화면 캡처 2024-09-30 155020](https://github.com/user-attachments/assets/6d3eebac-6eaa-4af8-9f81-048a49af1596)# KiwonTech - 경상팀 2조 🚀
+# KiwonTech - 경상팀 2조 🚀
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Comento-logo-Type-Blue.png" alt="Commento Logo" width="200">
@@ -27,6 +27,18 @@
    git clone https://github.com/KiwonTech/KWD24_GB2.git
    cd KWD24_GB2
 
- 
+
+
+#회의록작성 - 주차별 회의록 작성 , 업무요청분석을 학습
+![화면 캡처 2024-09-30 155020](https://github.com/user-attachments/assets/6d3eebac-6eaa-4af8-9f81-048a49af1596)
+
+#공용 구글 드라이브에서 조사 및 취합 
+![image](https://github.com/user-attachments/assets/aa617236-4225-43f4-8460-e444c4cd4bcf)
+
+#개인 조사
+![image](https://github.com/user-attachments/assets/d6d86303-ae5d-404c-bbf6-a57986195520)
+
+#ZEP 를 이용한 일경험 [경상팀 기념샷] 
+![image](https://github.com/user-attachments/assets/d0ba27c5-7264-4f24-931a-a5f9a6a9b3e7)
 
 
