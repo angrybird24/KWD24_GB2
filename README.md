@@ -61,10 +61,11 @@
 
   
 ## 최종 취합
-<img src="https://github.com/user-attachments/assets/aa31498f-881f-42b5-b656-2cac25e59109" width="300" />
-<img src="https://github.com/user-attachments/assets/44d01101-8c55-4c10-bd7f-31f57f02b6e1" width="250" />
-<img src="https://github.com/user-attachments/assets/4c4aae4d-ef1f-4a82-916f-83058c4d731f" width="300" />
-  
+<img src="https://github.com/user-attachments/assets/aa31498f-881f-42b5-b656-2cac25e59109" width="350" />
+<img src="https://github.com/user-attachments/assets/44d01101-8c55-4c10-bd7f-31f57f02b6e1" width="350" />
+<img src="https://github.com/user-attachments/assets/4c4aae4d-ef1f-4a82-916f-83058c4d731f" width="350" />
+<img src="https://github.com/user-attachments/assets/f0266d02-54e0-41f8-85be-01aed6c89463" width="350" />
+ 
   <br><br><br><br><br><br>
   
   
