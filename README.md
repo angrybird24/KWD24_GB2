@@ -77,9 +77,6 @@
   
   
 ## ZEP 를 이용한 일경험 [경상팀 기념샷] 
-![image]()
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0ba27c5-7264-4f24-931a-a5f9a6a9b3e7" alt="image">
 </p>
