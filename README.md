@@ -43,8 +43,9 @@
   
   
 ## 공용 구글 드라이브에서 조사 및 취합 
-![image](https://github.com/user-attachments/assets/aa617236-4225-43f4-8460-e444c4cd4bcf)
-  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa617236-4225-43f4-8460-e444c4cd4bcf" alt="image">
+</p>
   
   
   <br><br><br><br><br><br>
@@ -52,8 +53,10 @@
   
 
   
-## 개인 조사
-![image](https://github.com/user-attachments/assets/d6d86303-ae5d-404c-bbf6-a57986195520)
+## 개인 조사 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6d86303-ae5d-404c-bbf6-a57986195520" alt="image">
+</p>
   
   
   
