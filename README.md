@@ -32,9 +32,11 @@
   <br><br><br><br><br><br>
   
   
-## 회의록작성 - 주차별 회의록 작성 , 업무요청분석을 학습
-![화면 캡처 2024-09-30 155020](https://github.com/user-attachments/assets/6d3eebac-6eaa-4af8-9f81-048a49af1596)
+## 회의록작성 - 주차별 회의록 작성 , 업무요청분석을 학습 
   
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d3eebac-6eaa-4af8-9f81-048a49af1596" alt="image">
+</p>
   <br><br><br><br><br><br>
   
   
@@ -64,16 +66,21 @@
 
   
 ## 최종 취합
-<img src="https://github.com/user-attachments/assets/aa31498f-881f-42b5-b656-2cac25e59109" width="350" />
-<img src="https://github.com/user-attachments/assets/fcd666f7-caf5-4c76-81ed-a4acbe51ec62" width="350" />
-<img src="https://github.com/user-attachments/assets/44d01101-8c55-4c10-bd7f-31f57f02b6e1" width="350" />
-<img src="https://github.com/user-attachments/assets/4c4aae4d-ef1f-4a82-916f-83058c4d731f" width="350" />
-<img src="https://github.com/user-attachments/assets/f0266d02-54e0-41f8-85be-01aed6c89463" width="350" />
- 
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/aa31498f-881f-42b5-b656-2cac25e59109" width="350" />
+  <img src="https://github.com/user-attachments/assets/fcd666f7-caf5-4c76-81ed-a4acbe51ec62" width="350" />
+  <img src="https://github.com/user-attachments/assets/44d01101-8c55-4c10-bd7f-31f57f02b6e1" width="350" />
+  <img src="https://github.com/user-attachments/assets/4c4aae4d-ef1f-4a82-916f-83058c4d731f" width="350" />
+  <img src="https://github.com/user-attachments/assets/f0266d02-54e0-41f8-85be-01aed6c89463" width="350" />
+</div>
   <br><br><br><br><br><br>
   
   
 ## ZEP 를 이용한 일경험 [경상팀 기념샷] 
-![image](https://github.com/user-attachments/assets/d0ba27c5-7264-4f24-931a-a5f9a6a9b3e7)
+![image]()
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0ba27c5-7264-4f24-931a-a5f9a6a9b3e7" alt="image">
+</p>
+  
